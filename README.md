@@ -2,7 +2,7 @@ This is an theoretical investigation (and pilot development strategy) into the a
 I propose utilizing MentalBERT (trained on a general mental health corpus) to attend to the transcript and patient history, and entity tag words/sequences of words that pertain to psychologically relevant information (conditions, medications, behaviors, relationships, etc.), and use non-patient entities to retrieve diagnostically relevant documents. In the future, another language model would sit above this entity-tagged information, with retrieved documents, and produce the sequence of diagnostic notes pertaining to areas of the transcript. Then on top of both the entity-tagged transcript and diagnostic notes (possibly with "cited" relevant passages of documents instead of the entire document [cherry picking?]) a summarization model would produce the final session summary along with another model for proposed additions to patient history and therapist action items. Theoretically these last few tasks could be handled through API calls to GPT-4 (mainly the the 4o and 4o-mini models), although fine tuning a simpler model would be preferred (if I had the notoriously difficult to obtain data to train it on).
 
 Papers: \
-Detecting Depression and Anxiety on Social Media Using Selective Masking (2024, [link](https://repositum.tuwien.at/handle/20.500.12708/198293))\
-Task-Specific Transformer-Based Language Models in Health Care: Scoping Review (2024, [link](https://medinform.jmir.org/2024/1/e49724/))\
-Mental Illness Detection Using NLP (2024, [link](https://scholarworks.calstate.edu/downloads/ms35th72p))\
-BioALBERT: A Simple and Effective Pre-trained Language Model for Biomedical Named Entity Recognition (2023, [link](https://ieeexplore.ieee.org/document/9533884))
+Detecting Depression and Anxiety on Social Media Using Selective Masking (2024, [TUWien](https://repositum.tuwien.at/handle/20.500.12708/198293))\
+Task-Specific Transformer-Based Language Models in Health Care: Scoping Review (2024, [JMIR](https://medinform.jmir.org/2024/1/e49724/))\
+Mental Illness Detection Using NLP (2024, [CSUN](https://scholarworks.calstate.edu/downloads/ms35th72p))\
+BioALBERT: A Simple and Effective Pre-trained Language Model for Biomedical Named Entity Recognition (2023, [IEEE](https://ieeexplore.ieee.org/document/9533884))
