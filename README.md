@@ -5,5 +5,5 @@ Papers: \
 Detecting Depression and Anxiety on Social Media Using Selective Masking ([https://repositum.tuwien.at/bitstream/](https://repositum.tuwien.at/bitstream/20.500.12708/198293/1/Mullatahiri%20Princ%20-%202024%20-%20Detecting%20Depression%20and%20Anxiety%20on%20))\
 Task-Specific Transformer-Based Language Models in Health Care: Scoping Review (https://medinform.jmir.org/2024/1/e49724/PDF)\
 BioALBERT: A Simple and Effective Pre-trained Language Model for Biomedical Named Entity Recognition (https://ieeexplore.ieee.org/document/9533884)\
-Mental Illness Detection Using NLP (https://scholarworks.calstate.edu/downloads/ms35th72p)\
-Detecting Depression and Anxiety on Social Media Using Selective Masking ([https://repositum.tuwien.at/bitstream/...](https://repositum.tuwien.at/bitstream/20.500.12708/198293/1/Mullatahiri%20Princ%20-%202024%20-%20Detecting%20Depression%20and%20Anxiety%20on%20))
+Mental Illness Detection Using NLP ([link](https://scholarworks.calstate.edu/downloads/ms35th72p))\
+Detecting Depression and Anxiety on Social Media Using Selective Masking ([link](https://repositum.tuwien.at/bitstream/20.500.12708/198293/1/Mullatahiri%20Princ%20-%202024%20-%20Detecting%20Depression%20and%20Anxiety%20on%20))
