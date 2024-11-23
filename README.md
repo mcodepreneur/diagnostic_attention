@@ -4,5 +4,4 @@ I propose utilizing MentalBERT (trained on a general mental health corpus), fine
 Papers: \
 Detecting Depression and Anxiety on Social Media Using Selective Masking (2024, [TUWien](https://repositum.tuwien.at/handle/20.500.12708/198293))\
 Task-Specific Transformer-Based Language Models in Health Care: Scoping Review (2024, [JMIR](https://medinform.jmir.org/2024/1/e49724/))\
-Mental Illness Detection Using NLP (2024, [CSUN](https://scholarworks.calstate.edu/downloads/ms35th72p))\
-BioALBERT: A Simple and Effective Pre-trained Language Model for Biomedical Named Entity Recognition (2023, [IEEE](https://ieeexplore.ieee.org/document/9533884))
+Mental Illness Detection Using NLP (2024, [CSUN](https://scholarworks.calstate.edu/downloads/ms35th72p))
