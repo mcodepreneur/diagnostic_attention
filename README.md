@@ -2,8 +2,8 @@ This is an investigation into the application of deep language models in creatin
 I propose utilizing MentalBERT (trained on a general mental health corpus) to attend to the transcript and patient history and entity tag words/sequences of words that pertain to psychologically relevant information (conditions, medications, behaviors, relationships, etc.), and use non-patient entities to retrieve diagnostically relevant documents. In the future, another language model would sit above this entity-tagged information, with retrieved documents, and produce the sequence of diagnostic notes pertaining to areas of the transcript. Then on top of both the entity-tagged transcript and diagnostic notes (possibly with "cited" relevant passages of documents instead of the entire document [cherry picking?]) a summarization model would produce the final session summary along with another model for proposed additions to patient history and therapist action items. 
 
 Papers: \
-Detecting Depression and Anxiety on Social Media Using Selective Masking ([https://repositum.tuwien.at/bitstream/](https://repositum.tuwien.at/bitstream/20.500.12708/198293/1/Mullatahiri%20Princ%20-%202024%20-%20Detecting%20Depression%20and%20Anxiety%20on%20))\
-Task-Specific Transformer-Based Language Models in Health Care: Scoping Review (https://medinform.jmir.org/2024/1/e49724/PDF)\
-BioALBERT: A Simple and Effective Pre-trained Language Model for Biomedical Named Entity Recognition (https://ieeexplore.ieee.org/document/9533884)\
+Detecting Depression and Anxiety on Social Media Using Selective Masking ([link](https://repositum.tuwien.at/bitstream/20.500.12708/198293/1/Mullatahiri%20Princ%20-%202024%20-%20Detecting%20Depression%20and%20Anxiety%20on%20))\
+Task-Specific Transformer-Based Language Models in Health Care: Scoping Review ([link](https://medinform.jmir.org/2024/1/e49724/PDF))\
+BioALBERT: A Simple and Effective Pre-trained Language Model for Biomedical Named Entity Recognition ([link](https://ieeexplore.ieee.org/document/9533884))\
 Mental Illness Detection Using NLP ([link](https://scholarworks.calstate.edu/downloads/ms35th72p))\
 Detecting Depression and Anxiety on Social Media Using Selective Masking ([link](https://repositum.tuwien.at/bitstream/20.500.12708/198293/1/Mullatahiri%20Princ%20-%202024%20-%20Detecting%20Depression%20and%20Anxiety%20on%20))
